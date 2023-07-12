@@ -1,14 +1,1 @@
-{  
-  "name": "my-app",
-  "version": "0.1.0",
-  "homepage": "https://sethsingletary.github.io/portfolio",
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
-  },
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build"
-  }
-}
+{"name":"my-app","version":"0.1.0","homepage":"https://sethsingletary.github.io/portfolio","devDependencies":{"gh-pages":"^5.0.0"},"scripts":{"predeploy":"npm run build","deploy":"gh-pages -d build","start":"react-scripts start","build":"react-scripts build"},"dependencies":{"react-scripts":"^5.0.1"}}
